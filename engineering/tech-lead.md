@@ -15,6 +15,7 @@ description: Tech Lead na Filóo Saúde
 - Compartilhar constantemente as decisões de projetos feitas por sua equipe com outras pessoas do chapter de engenharia para que possamos disseminar nosso conhecimento técnico
 - Entenda de onde os bugs estão vindo, encontre padrões e trabalhe nas causas principais
 - Controlar o crescimento das dívidas de tecnologia fazendo com que a equipe as pague de forma constante e responsável
+- Ficar imerso no negócio e conhecer a jornada de ponta a ponta
 - Ser Hands-on em projetos mais complexos, integrações, qualidade e segurança de código
 
 ## Gestão
@@ -29,12 +30,12 @@ description: Tech Lead na Filóo Saúde
 - Experiência na construção de produtos digitais
 - Conhecimento de construção de aplicações web e mobile
 - 6+ anos de experiência com frameworks web modernos e/ou bibliotecas como React, Vue, Angular..
-- Conhecimento de AWS (EC2)
-- Conhecimentos Avancados em Java
+- Conhecimento de Cloud AWS (EC2)
+- Conhecimentos avançados em Java e NodeJs
 - Conhecimento do Banco de Dados relacionais e não-relacionais
 - Conhecimento do stack de tecnologia de infraestrutura Node.Js (Apache/Nginx, Ubuntu/CentOS, Memcache/Redis)
 - Experiência na definição de processos de build de integração contínua para desenvolvimento;
-- Experiencia com CircleCI
+- Experiencia com CircleCI / Jenkins
 - Experiencia com Cypress e jUnit
 - Compreensão dos princípios de garantia de qualidade de software (SOLID)
 - Construcao de APIs (Microsserviços)
