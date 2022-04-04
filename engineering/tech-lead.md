@@ -32,7 +32,7 @@ description: Tech Lead na Filóo Saúde
 - 6+ anos de experiência com frameworks web modernos e/ou bibliotecas como React, Vue, Angular..
 - Conhecimento de Cloud AWS (EC2)
 - Conhecimentos avançados em Java e NodeJs
-- Conhecimento do Banco de Dados relacionais e não-relacionais
+- Conhecimentos em Banco de Dados relacionais e não-relacionais (SQL, MongoDB...)
 - Conhecimento do stack de tecnologia de infraestrutura Node.Js (Apache/Nginx, Ubuntu/CentOS, Memcache/Redis)
 - Experiência na definição de processos de build de integração contínua para desenvolvimento;
 - Experiencia com CircleCI / Jenkins
