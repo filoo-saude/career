@@ -26,6 +26,7 @@ Essa posição tem como um dos objetivos evangelizar e disseminar a cultura data
 ## Habilidades:
 
 - Inglês avançado
+- Mínimo de 10 anos de experiência na área
 - Perfil Hands-on
 - Experiência em desenvolvimento de projetos/produtos digitais orientados a dados
 - Vivência com a cultura ágil
