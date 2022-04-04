@@ -20,6 +20,7 @@ Essa posição tem como um dos objetivos evangelizar e disseminar a cultura data
 - Construção de cultura data driven
 - Criação de uma fonte única da verdade (MDM, DW, DataLake)
 - Criação e expansão do nosso modelo de conectividade e interoperabilidade em saúde
+- Implementar os padrões de Governança de Dados na companhia
 - Forte interação com todas as áreas para capturar melhorias e oportunidades com base em dados
 - Report direto ao CTO
 
@@ -44,8 +45,7 @@ Essa posição tem como um dos objetivos evangelizar e disseminar a cultura data
 - Experiência em Analises Preditivas
 - Conhecimento em gestão de datasets
 - Conhecimento em metodologias ágeis (Scrum, Kanban)
-- Conhecimento em Arquitetura de Dados
-- Conhecimento em Qualidade de Dados
+- Conhecimento em Arquitetura de Dados, Qualidade de Dados e Governança
 - Conhecimento na preparação, normalização e transformação dos dados
 - Experiencia na construção de DataLakes, MDM, DW
 - Experiencia no setor da saúde e interoperabilidade em Saúde (FHIR/HL7, TISS/TUSS, OMOP, LOINC, entre outros...) será um diferencial
