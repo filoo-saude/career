@@ -1,6 +1,6 @@
 ---
 title: Engenheiro de Software Sênior (Front-End)
-description: Engenheiro de Software Sênior na Filóo Saúde
+description: Engenheiro de Software Sênior (Front-End) na Filóo Saúde
 ---
 
 ## Engenheiro de Software Sênior (Front-End)
